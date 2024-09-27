@@ -29,7 +29,7 @@ body {
 main {
       position: relative;
       height: 100vh;
-      max-width: 375px;
+      min-width: 375px;
       margin: auto;
       
 }
@@ -60,11 +60,8 @@ img{
     width: 80px;
     margin: 30px;
     position: relative;
-    left: 9%;
+    left: 34%;
     max-width: 450px;
-    min-width: 100px;
-    margin: auto;
-
 }
 
 section#link-carros img {
