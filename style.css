@@ -29,6 +29,8 @@ body {
 main {
       position: relative;
       height: 100vh;
+      max-width: 375px;
+      margin: auto;
       
 }
 
@@ -58,7 +60,10 @@ img{
     width: 80px;
     margin: 30px;
     position: relative;
-    left: 34%;
+    left: 9%;
+    max-width: 450px;
+    min-width: 100px;
+    margin: auto;
 
 }
 
@@ -66,7 +71,7 @@ section#link-carros img {
     width: 90px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
-    box-sizing: border-box;
+    box-sizing: border-box;    
 }
 
 section#link-carros img:hover {
