@@ -62,13 +62,15 @@ img{
     position: relative;
     left: 34%;
     max-width: 450px;
+
 }
 
 section#link-carros img {
     width: 90px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
-    box-sizing: border-box;    
+    box-sizing: border-box;
+
 }
 
 section#link-carros img:hover {
